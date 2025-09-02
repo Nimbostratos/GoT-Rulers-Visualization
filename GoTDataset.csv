@@ -1,0 +1,24 @@
+Ruler,House,Years,StartYear,EndYear,ReignLength,Gender,Predecessor,Successor,MajorEvents,ColorCode,Ongoing,ImagePath
+Aegon I,Targaryen,1-37 AC,1,37,36,Male,None,Aenys I,Conquest of Westeros,#ff0000,No,/kaggle/input/gotimages/images/Aegon_I.png
+Aenys I,Targaryen,37-42 AC,37,42,5,Male,Aegon I,Maegor I,Early Rebellions,#ff6666,No,/kaggle/input/gotimages/images/Aenys_I.png
+Maegor I,Targaryen,42-48 AC,42,48,6,Male,Aenys I,Jaehaerys I,Tyranny and construction of Red Keep,#ff3333,No,/kaggle/input/gotimages/images/MAEGOR_I.png
+Jaehaerys I,Targaryen,48-103 AC,48,103,55,Male,Maegor I,Viserys I,Long Peace and legal reforms,#ff9999,No,/kaggle/input/gotimages/images/JAEHAERYS_I.png
+Viserys I,Targaryen,103-129 AC,103,129,26,Male,Jaehaerys I,Aegon II,Succession crisis,#ffcccc,No,/kaggle/input/gotimages/images/VISERYS_I.png
+Aegon II,Targaryen,129-131 AC,129,131,2,Male,Viserys I,Aegon III,Dance of the Dragons,#ff4d4d,No,/kaggle/input/gotimages/images/AEGON_II.png
+Aegon III,Targaryen,131-157 AC,131,157,26,Male,Aegon II,Daeron I,Post-war reconstruction,#ffb3b3,No,/kaggle/input/gotimages/images/AEGON_III.png
+Daeron I,Targaryen,157-161 AC,157,161,4,Male,Aegon III,Baelor I,Conquest of Dorne,#ff8080,No,/kaggle/input/gotimages/images/Daeron_I.png
+Baelor I,Targaryen,161-171 AC,161,171,10,Male,Daeron I,Viserys II,Baelor the Blessed,#ff9999,No,/kaggle/input/gotimages/images/Baelor_I.png
+Viserys II,Targaryen,171-172 AC,171,172,1,Male,Baelor I,Aegon IV,Short reign,#ffcccc,No,/kaggle/input/gotimages/images/Viserys_II.png
+Aegon IV,Targaryen,172-184 AC,172,184,12,Male,Viserys II,Daeron II,Known as Aegon the Unworthy,#ff4d4d,No,/kaggle/input/gotimages/images/Aegon_IV.png
+Daeron II,Targaryen,184-209 AC,184,209,25,Male,Aegon IV,Aerys I,War and peace with Dorne,#ffb3b3,No,/kaggle/input/gotimages/images/Daeron_II.png
+Aerys I,Targaryen,209-221 AC,209,221,12,Male,Daeron II,Maekar I,Stable reign,#ff9999,No,/kaggle/input/gotimages/images/Aerys_I.png
+Maekar I,Targaryen,221-233 AC,221,233,12,Male,Aerys I,Aegon V,Internal conflicts,#ff8080,No,/kaggle/input/gotimages/images/Maekar_I.png
+Aegon V,Targaryen,233-259 AC,233,259,26,Male,Maekar I,Jaehaerys II,Reforms and disaster,#ff3333,No,/kaggle/input/gotimages/images/Aegon_V.png
+Jaehaerys II,Targaryen,259-262 AC,259,262,3,Male,Aegon V,Aerys II,Short reign,#ff6666,No,/kaggle/input/gotimages/images/Jaehaerys_II.png
+Aerys II,Targaryen,c. 262-281 AC,262,281,19,Male,Jaehaerys II,Robert I,The Mad King,#ff0000,No,/kaggle/input/gotimages/images/Aerys_II.png
+Robert I,Baratheon,281-298 AC,281,298,17,Male,Aerys II,Joffrey I,Robert’s Rebellion,#0000ff,No,/kaggle/input/gotimages/images/Robert_Baratheon.png
+Joffrey I,Baratheon,298-301 AC,298,301,3,Male,Robert I,Tommen I,War of the Usurper,#3333ff,No,/kaggle/input/gotimages/images/Joffrey_Baratheon.png
+Tommen I,Baratheon,301-303 AC,301,303,2,Male,Joffrey I,Cersei I,Short reign,#6666ff,No,/kaggle/input/gotimages/images/Tommen_Baratheon.png
+Cersei I,Lannister,303-305 AC,303,305,2,Female,Tommen I,Daenerys I,Rule as Queen,#cc00cc,No,/kaggle/input/gotimages/images/Cersei_Lannister.png
+Daenerys I,Targaryen,305 AC,305,305,0,Female,Cersei I,Bran I,Brief rule,#ff9999,No,/kaggle/input/gotimages/images/Daenerys_Targaryen.png
+Bran I,Stark,305 AC - Onward,305,, ,Male,Daenerys I,,Ongoing reign,#00ff00,Yes,/kaggle/input/gotimages/images/bran_stark.png

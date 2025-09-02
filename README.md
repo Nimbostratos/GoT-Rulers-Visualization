@@ -10,8 +10,8 @@ It includes:
 - Major historical events visualization
 - Interactive timeline of rulers with hoverable details
 
-Technologies used: Python, Pandas, Matplotlib, Seaborn, Plotly, Altair
+Technologies used: Python, Pandas, Matplotlib, Seaborn, Altair
 
-*Interactive plots work when running the notebook locally or on Kaggle
+(Interactive plots work when running the notebook locally or on Kaggle)
 
 This project demonstrates skills in data analysis, visualization, and interactive plotting, making it a portfolio-ready showcase.

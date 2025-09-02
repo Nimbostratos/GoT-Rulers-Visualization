@@ -12,4 +12,6 @@ It includes:
 
 Technologies used: Python, Pandas, Matplotlib, Seaborn, Plotly, Altair
 
+*Interactive plots work when running the notebook locally or on Kaggle
+
 This project demonstrates skills in data analysis, visualization, and interactive plotting, making it a portfolio-ready showcase.

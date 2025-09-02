@@ -12,6 +12,9 @@ It includes:
 
 Technologies used: Python, Pandas, Matplotlib, Seaborn, Altair
 
+Public Kaggle notebook: https://www.kaggle.com/code/enmorales/got-rulers-visualization?scriptVersionId=259665198 
 (Interactive plots work when running the notebook locally or on Kaggle)
 
 This project demonstrates skills in data analysis, visualization, and interactive plotting, making it a portfolio-ready showcase.
+
+Contact: https://www.linkedin.com/in/enrique-morales-estrada-102610374/
